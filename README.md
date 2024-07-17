@@ -1,4 +1,4 @@
-#Advanced Vulnerability Scanner Dashboard
+# Advanced Vulnerability Scanner Dashboard
 
 **Overview**
 The Advanced Vulnerability Scanner Dashboard is a web-based application that provides a comprehensive interface for scanning websites for vulnerabilities using the OWASP Zed Attack Proxy (ZAP). It offers real-time scanning capabilities and presents the results in an intuitive, visually appealing dashboard.
