@@ -32,7 +32,7 @@ The Advanced Vulnerability Scanner Dashboard is a web-based application that pro
 ## Installation
 
 1. Clone the repository:
-    git clone https://github.com/Tushar4059x/cybersecurity-dashboard
+    https://github.com/USP2003/ACS_Interenship-Projects/tree/main
 
 2. Install the required Python packages:
     pip install flask python-owasp-zap-v2.4
